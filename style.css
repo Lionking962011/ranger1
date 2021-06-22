@@ -1,0 +1,41 @@
+body
+{
+    background-image:url('backg.jpg');
+    background-position:center;
+    background-size:cover;
+    text-align: center;
+}
+#myCanvas
+{
+    border-width:10px;
+    background-color: white; 
+    border-style:ridge;
+}
+
+h3
+{
+	width: 1000px;
+	background-color:black;
+	display: inline-block;
+}
+.logo img
+{
+    height: 45px;
+    width: 100px;
+   
+}
+
+#button
+{
+margin-top: 2%;
+background-color: pink;
+font-size: medium;
+font-weight: bold;
+color: white;
+padding: 10px;
+}
+
+#button:hover
+{
+    background-image: linear-gradient(to right ,#f2ccff,#ccccff)
+}
